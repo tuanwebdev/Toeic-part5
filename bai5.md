@@ -1,4 +1,3 @@
-```markdown
 # Test 8
 
 ## Câu 103
@@ -24,4 +23,3 @@ Khi đi thi TOEIC, nếu bạn thấy một câu bắt đầu bằng các từ c
 
 ## Câu 124
 - Sau **"Please"** cần một **động từ nguyên mẫu** để tạo thành câu mệnh lệnh mời mọi người cùng tham gia chào đón nhân viên mới.
-```
