@@ -1,0 +1,1 @@
+Most + N(số nhiều)
