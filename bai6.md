@@ -372,3 +372,20 @@ Arriving late surprised everyone.
 ```text
 To arrive late surprised everyone.
 ```
+by+mốc thời gian
+on+ ngày trong tuần
+expert(adj): thành thạo
+expertness(N): sự thành thạo
+enables(v): cho phép
+measures(N): biện pháp
+grounds(N): căn cư
+figures: số liệu
+shorten(v): rút ngắn
+within: trong vòng
+during: trong suốt
+those + Who +V (số nhiều)
+enhance(v)
+recognition(N): sự công nhận
+accordance: phù hợp
+exclusive: độc quyền
+
