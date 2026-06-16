@@ -1,62 +1,156 @@
 # 📘 English Grammar & Vocabulary Notes
 
-## 1. Cấu trúc ngữ pháp
+---
 
-* **Most + N (số nhiều)**: Hầu hết cái gì/ai.
-* **Ask + to V**: Yêu cầu làm gì.
-* **Begin / Start / Stop + V-ing / To V**: Các động từ này có thể được theo sau bởi cả hai dạng động từ.
-* **At / On / In + Cụm danh từ chỉ thời điểm**: Các giới từ đi kèm với mốc thời gian.
+# 1. Cấu Trúc Ngữ Pháp
+
+## Most + N (số nhiều)
+
+**Most + Danh từ số nhiều** → Hầu hết người/vật nào đó.
+
+**Ví dụ:**
+
+```text
+Most students passed the exam.
+```
 
 ---
 
-## 2. Từ vựng & Gia đình từ (Word Family)
+## Ask + To V
 
-| Từ vựng      | Loại từ      | Nghĩa                       |
-| ------------ | ------------ | --------------------------- |
-| Multiple     | Adj          | Nhiều                       |
-| Multiples    | N (số nhiều) | Các bội số                  |
-| Multiplicity | N            | Sự đa dạng, nhiều loại      |
-| Debated      | V-ed / Adj   | Tranh luận                  |
-| Over         | Prep         | Qua; về (một vấn đề nào đó) |
+**Ask + O + To V** → Yêu cầu ai làm gì.
+
+**Ví dụ:**
+
+```text
+The manager asked employees to submit the report.
+```
 
 ---
 
-## 3. Ví dụ & Giải thích câu
+## Begin / Start / Stop + V-ing / To V
+
+Các động từ sau có thể đi với cả **V-ing** và **To V**:
+
+```text
+Begin + V-ing / To V
+Start + V-ing / To V
+Stop + V-ing / To V
+```
+
+---
+
+## Giới từ thời gian
+
+```text
+At + mốc thời gian
+On + ngày/thứ
+In + tháng/năm/mùa/khoảng thời gian dài
+By + mốc thời gian
+During + khoảng thời gian
+Within + trong vòng
+```
+
+### Ví dụ
+
+```text
+At 7 a.m.
+On Monday
+In July
+By next week
+During the meeting
+Within two days
+```
+
+---
+
+# 2. Từ Vựng & Word Family
+
+| Từ vựng      | Loại từ    | Nghĩa                |
+| ------------ | ---------- | -------------------- |
+| Multiple     | Adj        | Nhiều                |
+| Multiples    | N (pl.)    | Các bội số           |
+| Multiplicity | N          | Sự đa dạng           |
+| Debated      | V-ed / Adj | Tranh luận           |
+| Over         | Prep       | Về, liên quan đến    |
+| Wider        | Adj        | Rộng hơn             |
+| Boost        | V          | Thúc đẩy             |
+| Neutral      | Adj        | Trung tính           |
+| Regular      | Adj        | Thường xuyên         |
+| Inclement    | Adj        | Khắc nghiệt          |
+| Risk         | V          | Mạo hiểm, có nguy cơ |
+| Allocated    | V-ed       | Được phân bổ         |
+| Imprinted    | V-ed       | Được in dấu          |
+| Economized   | V-ed       | Được tiết kiệm       |
+| Rationalized | V-ed       | Được hợp lý hóa      |
+| Enhance      | V          | Nâng cao             |
+| Recognition  | N          | Sự công nhận         |
+| Accordance   | N          | Sự phù hợp           |
+| Exclusive    | Adj        | Độc quyền            |
+| Enables      | V          | Cho phép             |
+| Measures     | N          | Biện pháp            |
+| Grounds      | N          | Căn cứ               |
+| Figures      | N          | Số liệu              |
+| Shorten      | V          | Rút ngắn             |
+
+---
+
+## Word Family: Expert
+
+| Từ         | Loại từ | Nghĩa                  |
+| ---------- | ------- | ---------------------- |
+| Expert     | Adj / N | Thành thạo; Chuyên gia |
+| Expertness | N       | Sự thành thạo          |
+
+---
+
+# 3. Ví Dụ & Giải Thích
 
 > Groove Background creates soothing playlists of instrumental music, including classical and jazz.
 
-### Mẹo ngữ pháp
+## Mẹo ngữ pháp
 
-Sau dấu phẩy, ta thường dùng một từ để đưa ra ví dụ. Trong câu trên, **including** được dùng để liệt kê các ví dụ cụ thể.
+Sau dấu phẩy, ta thường dùng:
+
+```text
+including + danh từ
+```
+
+để đưa ra các ví dụ cụ thể.
+
+### Ví dụ
+
+```text
+The company provides many benefits, including health insurance and paid leave.
+```
 
 ---
 
-# 📚 MỆNH ĐỀ QUAN HỆ (RELATIVE CLAUSES) & MỆNH ĐỀ QUAN HỆ RÚT GỌN
-
-Hệ thống kiến thức ngắn gọn, trực quan giúp học nhanh và áp dụng hiệu quả trong các bài thi TOEIC, THPT,...
-
----
-
-# PHẦN 1: MỆNH ĐỀ QUAN HỆ (RELATIVE CLAUSES)
+# 📚 MỆNH ĐỀ QUAN HỆ (RELATIVE CLAUSES)
 
 Mệnh đề quan hệ dùng để bổ nghĩa cho danh từ đứng trước nó.
 
-## 1. Các đại từ quan hệ
+---
+
+# PHẦN 1: RELATIVE CLAUSES
+
+## 1. Đại Từ Quan Hệ
 
 ### Who
 
-* Thay cho danh từ chỉ **người**.
-* Làm **chủ ngữ** hoặc **tân ngữ**.
+* Thay cho người.
+* Làm chủ ngữ hoặc tân ngữ.
 
 ```text
 N (người) + who + V
+
 N (người) + who + S + V
 ```
 
 ### Whom
 
-* Thay cho danh từ chỉ **người**.
-* Chỉ làm **tân ngữ**.
+* Thay cho người.
+* Chỉ làm tân ngữ.
 
 ```text
 N (người) + whom + S + V
@@ -64,34 +158,44 @@ N (người) + whom + S + V
 
 ### Which
 
-* Thay cho danh từ chỉ **vật/sự vật**.
-* Làm cả **chủ ngữ** và **tân ngữ**.
+* Thay cho vật.
+* Làm chủ ngữ hoặc tân ngữ.
 
 ```text
 N (vật) + which + V
+
 N (vật) + which + S + V
 ```
 
 ### That
 
-* Thay thế được cho **who**, **whom**, **which** trong mệnh đề quan hệ xác định (không có dấu phẩy).
+Có thể thay cho:
+
+```text
+who
+whom
+which
+```
+
+trong mệnh đề quan hệ xác định.
 
 ### Whose
 
-* Chỉ sự sở hữu của cả người và vật.
+Chỉ sự sở hữu của người hoặc vật.
 
 ```text
 N1 + whose + N2 + V
+
 N1 + whose + N2 + S + V
 ```
 
 ---
 
-## 2. Các trạng từ quan hệ
+## 2. Trạng Từ Quan Hệ
 
 ### When
 
-Thay cho mốc thời gian.
+Chỉ thời gian.
 
 ```text
 when = on/in/at which
@@ -99,7 +203,7 @@ when = on/in/at which
 
 ### Where
 
-Thay cho mốc nơi chốn.
+Chỉ nơi chốn.
 
 ```text
 where = in/at/on/to which
@@ -107,7 +211,13 @@ where = in/at/on/to which
 
 ### Why
 
-Thay cho lý do, thường đứng sau **the reason**.
+Chỉ lý do.
+
+Thường đứng sau:
+
+```text
+the reason
+```
 
 ```text
 why = for which
@@ -115,16 +225,14 @@ why = for which
 
 ---
 
-# PHẦN 2: MỆNH ĐỀ QUAN HỆ RÚT GỌN (REDUCED RELATIVE CLAUSES)
+# PHẦN 2: MỆNH ĐỀ QUAN HỆ RÚT GỌN
 
-Khi rút gọn, ta bỏ đại từ quan hệ và biến đổi động từ chính theo 3 trường hợp sau.
-
-## 1. Rút gọn dạng Chủ động → V-ing
+## 1. Dạng Chủ Động → V-ing
 
 ### Điều kiện
 
-* Đại từ quan hệ đóng vai trò chủ ngữ.
-* Mệnh đề mang ý nghĩa chủ động.
+* Đại từ quan hệ làm chủ ngữ.
+* Mang nghĩa chủ động.
 
 ### Công thức
 
@@ -149,11 +257,11 @@ The man standing over there is my teacher.
 
 ---
 
-## 2. Rút gọn dạng Bị động → V3/V-ed
+## 2. Dạng Bị Động → V3/V-ed
 
 ### Điều kiện
 
-Mệnh đề mang ý nghĩa bị động.
+Mệnh đề mang nghĩa bị động.
 
 ### Công thức
 
@@ -178,9 +286,9 @@ The book written by Nam is a local best-seller.
 
 ---
 
-## 3. Rút gọn dạng To V
+## 3. Dạng To V
 
-### Áp dụng khi danh từ đứng trước có:
+### Áp dụng khi có
 
 #### Số thứ tự
 
@@ -200,7 +308,7 @@ the shortest
 ...
 ```
 
-#### Từ chỉ tính duy nhất
+#### Tính duy nhất
 
 ```text
 the only
@@ -238,17 +346,15 @@ He is the last man to leave the room.
 
 ---
 
-# ⚡ Mẹo làm bài trắc nghiệm nhanh (TOEIC/THPT)
+# ⚡ Mẹo Làm Bài Trắc Nghiệm
 
 Khi câu đã có động từ chính chia thì hoàn chỉnh nhưng vẫn còn một vị trí cần điền động từ:
 
-### Trường hợp 1: Phía sau có Tân ngữ
+---
 
-```text
-→ Chọn V-ing
-```
+## Trường hợp 1: Phía sau có tân ngữ
 
-Ví dụ:
+→ Chọn **V-ing**
 
 ```text
 The man carrying a bag is my uncle.
@@ -256,13 +362,9 @@ The man carrying a bag is my uncle.
 
 ---
 
-### Trường hợp 2: Phía sau là giới từ hoặc đứng cuối câu
+## Trường hợp 2: Phía sau là giới từ hoặc cuối câu
 
-```text
-→ Chọn V3/V-ed
-```
-
-Ví dụ:
+→ Chọn **V3/V-ed**
 
 ```text
 The report submitted yesterday was approved.
@@ -270,13 +372,16 @@ The report submitted yesterday was approved.
 
 ---
 
-### Trường hợp 3: Có the first / last / only / so sánh nhất
+## Trường hợp 3: Có
 
 ```text
-→ Chọn To V
+the first
+the last
+the only
+so sánh nhất
 ```
 
-Ví dụ:
+→ Chọn **To V**
 
 ```text
 She was the first student to finish the test.
@@ -284,24 +389,7 @@ She was the first student to finish the test.
 
 ---
 
-# 📖 Từ vựng bổ sung
-
-| Từ           | Loại từ | Nghĩa                |
-| ------------ | ------- | -------------------- |
-| Wider        | Adj     | Rộng hơn             |
-| Boost        | V       | Thúc đẩy             |
-| Neutral      | Adj     | Trung tính           |
-| Regular      | Adj     | Thường xuyên         |
-| Inclement    | Adj     | Khắc nghiệt          |
-| Risk         | V       | Có nguy cơ, mạo hiểm |
-| Allocated    | V-ed    | Được phân bổ         |
-| Imprinted    | V-ed    | Được in dấu          |
-| Economized   | V-ed    | Được tiết kiệm       |
-| Rationalized | V-ed    | Được hợp lý hóa      |
-
----
-
-# 📌 Các cấu trúc cần nhớ
+# 📖 Các Cấu Trúc Cần Nhớ
 
 ## Each
 
@@ -309,7 +397,7 @@ She was the first student to finish the test.
 Each + N (số ít)
 ```
 
-Ví dụ:
+### Ví dụ
 
 ```text
 Each student has a book.
@@ -321,11 +409,13 @@ Each student has a book.
 
 ```text
 All + N số nhiều / N không đếm được
+
 Some + N số nhiều / N không đếm được
+
 Most + N số nhiều / N không đếm được
 ```
 
-Ví dụ:
+### Ví dụ
 
 ```text
 Most students passed the exam.
@@ -337,21 +427,47 @@ Some water is left.
 
 ---
 
-## Lưu ý về "that"
+## Those Who
 
-Sau **that** thông thường là một mệnh đề hoàn chỉnh:
+```text
+Those + who + V
+```
+
+Mang nghĩa:
+
+```text
+Những người mà...
+```
+
+Động từ theo sau thường chia số nhiều.
+
+### Ví dụ
+
+```text
+Those who work hard will succeed.
+```
+
+---
+
+## Lưu ý về "That"
+
+Sau **that** thường là một mệnh đề hoàn chỉnh:
 
 ```text
 that + S + V + ...
 ```
 
-Ví dụ:
+### Ví dụ
 
 ```text
 I think that he is right.
 ```
 
-Khi diễn tả một hành động đóng vai trò chủ ngữ, thường dùng:
+---
+
+# V-ing / To V Làm Chủ Ngữ
+
+Khi diễn tả hành động đóng vai trò chủ ngữ:
 
 ```text
 V-ing
@@ -363,7 +479,7 @@ hoặc
 To V
 ```
 
-Ví dụ:
+### Ví dụ
 
 ```text
 Arriving late surprised everyone.
@@ -372,20 +488,32 @@ Arriving late surprised everyone.
 ```text
 To arrive late surprised everyone.
 ```
-by+mốc thời gian
-on+ ngày trong tuần
-expert(adj): thành thạo
-expertness(N): sự thành thạo
-enables(v): cho phép
-measures(N): biện pháp
-grounds(N): căn cư
-figures: số liệu
-shorten(v): rút ngắn
-within: trong vòng
-during: trong suốt
-those + Who +V (số nhiều)
-enhance(v)
-recognition(N): sự công nhận
-accordance: phù hợp
-exclusive: độc quyền
 
+---
+
+# 📌 Tổng Hợp Từ Vựng Quan Trọng
+
+| Từ           | Nghĩa                  |
+| ------------ | ---------------------- |
+| Enhance      | Nâng cao               |
+| Recognition  | Sự công nhận           |
+| Accordance   | Sự phù hợp             |
+| Exclusive    | Độc quyền              |
+| Enables      | Cho phép               |
+| Measures     | Biện pháp              |
+| Grounds      | Căn cứ                 |
+| Figures      | Số liệu                |
+| Shorten      | Rút ngắn               |
+| Within       | Trong vòng             |
+| During       | Trong suốt             |
+| Risk         | Có nguy cơ             |
+| Neutral      | Trung tính             |
+| Regular      | Thường xuyên           |
+| Wider        | Rộng hơn               |
+| Boost        | Thúc đẩy               |
+| Allocated    | Được phân bổ           |
+| Imprinted    | Được in dấu            |
+| Economized   | Được tiết kiệm         |
+| Rationalized | Được hợp lý hóa        |
+| Expert       | Thành thạo; Chuyên gia |
+| Expertness   | Sự thành thạo          |
