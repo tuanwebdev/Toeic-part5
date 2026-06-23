@@ -6,6 +6,7 @@ Tài liệu tổng hợp các từ vựng cốt lõi và bài học ngữ pháp 
 
 ## 📌 1. Vocabulary List (Từ vựng cốt lõi)
 
+### 📈 General Vocabulary & Grammar Context
 | Từ vựng | Từ loại | Ý nghĩa | Ghi chú / Cấu trúc đi kèm |
 | :--- | :---: | :--- | :--- |
 | **leading** | *adj* | hàng đầu | Ví dụ: *a leading company* |
@@ -15,6 +16,14 @@ Tài liệu tổng hợp các từ vựng cốt lõi và bài học ngữ pháp 
 | **advocate for** | *v* | ủng hộ cái gì | Hành động lên tiếng, bảo vệ một quan điểm |
 | **reform** | *n* | sự cải cách | Ví dụ: *economic reform* |
 | **solicit** | *v* | kêu gọi, thu hút | Ví dụ: *solicit suggestions/contributions* |
+
+### 🧱 Part 1 Photo Vocabulary (Từ vựng tranh ảnh bổ sung)
+| Từ vựng | Từ loại | Ý nghĩa | Ví dụ / Ngữ cảnh |
+| :--- | :---: | :--- | :--- |
+| **brick** | *n* | gạch | *stacking bricks* (xếp gạch) |
+| **shovel** | *n/v* | cái xẻng / xúc | *shoveling soil* (xúc đất) |
+| **flowerpot** | *n* | chậu hoa | *arranging flowerpots* (sắp xếp chậu hoa) |
+| **lamppost** | *n* | cột đèn | *standing near a lamppost* (đứng gần cột đèn) |
 
 ---
 
@@ -26,7 +35,7 @@ Từ các bẫy ngữ pháp kinh điển trong bài thi TOEIC, hãy luôn nằm 
 Khi thấy một từ loại đứng ngay trước chỗ trống, hãy check xem nó là gì. Nếu nó là một **Danh từ đếm được số ít** (như `employee`, `customer`, `passenger`...) mà đứng trơ trọi một mình (không có các từ hạn định đi kèm như *a, an, the, this, that, his, her...*):
 
 > 📌 **Quy tắc:** Nó **99%** đang nằm trong một **Cụm danh từ ghép** (Compound Noun).
-> 
+>  
 > 🚀 **Hành động:** Điền ngay một **Danh từ** khác vào sau nó để hoàn chỉnh cấu trúc cụm từ.
 
 ---
